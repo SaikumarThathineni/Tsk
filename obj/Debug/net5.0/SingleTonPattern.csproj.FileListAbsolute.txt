@@ -1,0 +1,16 @@
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net5.0\SingleTonPattern.exe
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net5.0\SingleTonPattern.deps.json
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net5.0\SingleTonPattern.runtimeconfig.json
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net5.0\SingleTonPattern.runtimeconfig.dev.json
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net5.0\SingleTonPattern.dll
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net5.0\ref\SingleTonPattern.dll
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net5.0\SingleTonPattern.pdb
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net5.0\SingleTonPattern.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net5.0\SingleTonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net5.0\SingleTonPattern.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net5.0\SingleTonPattern.AssemblyInfo.cs
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net5.0\SingleTonPattern.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net5.0\SingleTonPattern.dll
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net5.0\ref\SingleTonPattern.dll
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net5.0\SingleTonPattern.pdb
+C:\Users\SAILS-DM90\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net5.0\SingleTonPattern.genruntimeconfig.cache
